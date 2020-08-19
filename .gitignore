@@ -1,0 +1,3 @@
+# Project exclude paths
+/hello-spring-boot-starter-autoconfigure/target/
+/hello-spring-boot-starter-test/target/

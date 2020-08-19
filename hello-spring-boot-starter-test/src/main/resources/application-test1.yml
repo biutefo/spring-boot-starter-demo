@@ -1,0 +1,7 @@
+hello:
+  person: xin
+  content: Hello
+  customer:
+    enabled: true
+server:
+  port: 1111
